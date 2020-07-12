@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there! ##
 
-<!--
-**battaglia-v/battaglia-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vincent ~ *pronouns: He/Him*
 
-Here are some ideas to get you started:
+![vinny]()
+      
+A tech lover, software engineer, and travel enthusiast who builds tools for humans and is passionate about democratizing education. 🥳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:point_right:  You can contact me on [LinkedIn](https://www.linkedin.com/in/vincentvinnybattaglia) or simply drop me a line on [Telegram](https://t.me/vbattaglia) to discuss working together.
+  
+  
+  
+  
+  
+        
+*Talk is cheap. Show me the code.   - Linus Torvalds*  :fire:
+    
+
+
