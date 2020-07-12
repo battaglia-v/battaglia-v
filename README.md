@@ -1,4 +1,3 @@
-![cool cat](https://i.redd.it/47c9jco0egrz.jpg)
 #  I'm Vincent ~  :coffee:
 *pronouns: He/Him*
 
@@ -23,5 +22,5 @@
         
 *Dan Abromov inspires me to become a better Javascript developer* => check out his new course series :sparkles: [JustJavascript](https://justjavascript.com/)  :fire:
     
-
+![cool cat](https://i.redd.it/47c9jco0egrz.jpg)
 
