@@ -21,7 +21,7 @@
         
         
         
-*Dan Abromov inspires me to become a better Javascript developer* => check out his new course series :sparkles: [JustJavascript](https://justjavascript.com/)  :fire:
+:sparkles: *Dan Abromov inspires me to become a better Javascript developer* ~ check out his new course series [JustJavascript](https://justjavascript.com/)  :fire:
     
 
 
