@@ -3,7 +3,7 @@
       
 ### 🥳 A tech lover, software engineer, and travel enthusiast who builds tools for humans and is passionate about democratizing education.
 
-### I'm working as a developer @
+### I'm one of the developers @
 ![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
 
 ### :books: Currently studying Hybrid Cloud Engineering @ [Hybrid Cloud Scholarship Foundation program](https://classroom.udacity.com/nanodegrees/nd321-1/syllabus/core-curriculum)
