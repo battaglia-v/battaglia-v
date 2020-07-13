@@ -6,7 +6,7 @@
 ### I'm one of the developers @
 ![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
 
-:books: Currently studying **Hybrid Cloud Engineering @ [Hybrid Cloud Scholarship Foundation program](https://classroom.udacity.com/nanodegrees/nd321-1/syllabus/core-curriculum)
+:books: Currently studying Hybrid Cloud Engineering @ [Hybrid Cloud Scholarship Foundation program](https://classroom.udacity.com/nanodegrees/nd321-1/syllabus/core-curriculum)
 
 :point_right:  You can contact me on [LinkedIn](https://www.linkedin.com/in/vincentvinnybattaglia) or simply drop me a line on [Telegram](https://t.me/vbattaglia) to discuss collaborating together.
 
