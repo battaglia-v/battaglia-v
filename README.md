@@ -1,4 +1,4 @@
-![cool cat](https://pixabay.com/get/5fe8d1434355b10ff3d89960c62d3e7a1038d8ec5456_640.jpg)
+![cool cat](https://media.tenor.com/images/2ead69234cfb00c3844c9a3b12605754/tenor.gif)
 #  I'm Vincent ~  :coffee: *He/Him*
       
 <p> 🥳 A tech lover, software engineer, and travel enthusiast who builds tools for humans and is passionate about democratizing education.
