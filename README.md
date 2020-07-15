@@ -1,7 +1,5 @@
 ![cool cat](https://media.tenor.com/images/2ead69234cfb00c3844c9a3b12605754/tenor.gif)
-#  I'm Vincent ~  :coffee: *He/Him*
-      
-🥳 A tech lover, software engineer, and travel enthusiast who builds tools for humans and is passionate about democratizing education.
+#  I'm Vincent ~  :coffee: // *He/Him*
 
 ### I'm one of the developers @
 ![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
