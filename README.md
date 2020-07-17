@@ -1,6 +1,6 @@
 #  I'm Vincent ~  :coffee: // *He/Him*.  
 
-I'm one of the developers @
+#### I'm a developer @
 ![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
 
 :books: Currently studying Hybrid Cloud Engineering @ [Hybrid Cloud Scholarship Foundation program](https://classroom.udacity.com/nanodegrees/nd321-1/syllabus/core-curriculum)
