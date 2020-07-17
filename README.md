@@ -1,4 +1,4 @@
-#  I'm Vincent ~  :coffee: // *He/Him*.  
+#  I'm Vincent ~  :coffee:  *He/Him*.  
 
 #### I'm a developer @
 ![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
