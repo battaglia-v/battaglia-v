@@ -1,4 +1,4 @@
-![cool cat](https://media.tenor.com/images/2ead69234cfb00c3844c9a3b12605754/tenor.gif)
+![](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 #  I'm Vincent ~  :coffee: // *He/Him*
 
 ### I'm one of the developers @
