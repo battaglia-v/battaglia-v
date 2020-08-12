@@ -1,7 +1,7 @@
 #  I'm Vincent ~  :coffee:  *He/Him*.  
 
 #### I'm a developer @
-![fiveable](https://fiveable.me/wp-content/uploads/2020/06/fiveable-pride-flag-new-copy.png)
+![fiveable](https://www.multivu.com/players/English/8116251-introducing-expedia-group/image/ExpediaGroupLogo_1521566233440-null-HR.jpg)
 
 :books: Currently studying Hybrid Cloud Engineering @ [Hybrid Cloud Scholarship Foundation program](https://classroom.udacity.com/nanodegrees/nd321-1/syllabus/core-curriculum)
 
