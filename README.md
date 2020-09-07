@@ -1,7 +1,7 @@
 #  I'm Vincent ~  :coffee:  *He/Him*.  
 
-#### I'm a developer @ Expedia Group
-![fiveable](https://media-exp1.licdn.com/dms/image/C560BAQGCJ4PG0WVumA/company-logo_200_200/0?e=2159024400&v=beta&t=fp-1NCkPLGDZ_VRVew6EHkBhdyH4biu8BzkBk25N97I)
+#### software development engineer @ Expedia Group 
+[expediagroup](https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Expedia_Group.svg/revision/latest/scale-to-width-down/340?cb=20180328182608)
 
 :books: Currently studying Hybrid Cloud Engineering @ [Hybrid Cloud Scholarship Foundation program](https://classroom.udacity.com/nanodegrees/nd321-1/syllabus/core-curriculum)
 
