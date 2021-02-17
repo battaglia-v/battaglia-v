@@ -2,7 +2,7 @@
 
 🌎 software development engineer @ expedia group
 
-:point_right:  [LinkedIn](https://www.linkedin.com/in/vincentvinnybattaglia) 
+:point_right:  Connect with me: [LinkedIn](https://www.linkedin.com/in/vincentvinnybattaglia) 
 
       
 
